@@ -3,7 +3,9 @@ Microsoft Visual Studio Solution File, Format Version 12.00
 # Visual Studio Version 17
 VisualStudioVersion = 17.8.34322.80
 MinimumVisualStudioVersion = 10.0.40219.1
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "ListCsharp", "ListCsharp\ListCsharp.csproj", "{1AC75C74-85ED-4FB6-AFC0-8C826436B9E9}"
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "List1", "ListCsharp\List1.csproj", "{1AC75C74-85ED-4FB6-AFC0-8C826436B9E9}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "List2", "List2\List2.csproj", "{F5414AF3-B663-4E87-8FD1-E95DC418D250}"
 EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
@@ -15,6 +17,10 @@ Global
 		{1AC75C74-85ED-4FB6-AFC0-8C826436B9E9}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{1AC75C74-85ED-4FB6-AFC0-8C826436B9E9}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{1AC75C74-85ED-4FB6-AFC0-8C826436B9E9}.Release|Any CPU.Build.0 = Release|Any CPU
+		{F5414AF3-B663-4E87-8FD1-E95DC418D250}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{F5414AF3-B663-4E87-8FD1-E95DC418D250}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{F5414AF3-B663-4E87-8FD1-E95DC418D250}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{F5414AF3-B663-4E87-8FD1-E95DC418D250}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
