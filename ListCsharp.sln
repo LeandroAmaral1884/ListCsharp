@@ -7,6 +7,8 @@ Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "ListCriar", "ListCsharp\Lis
 EndProject
 Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "ListRemoveIncluir", "List2\ListRemoveIncluir.csproj", "{F5414AF3-B663-4E87-8FD1-E95DC418D250}"
 EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "ExpressaoLambda_Find", "ExpressaoLambda\ExpressaoLambda_Find.csproj", "{6B3464F7-E403-4FE7-99DC-5EF0EC9CE8A7}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
@@ -21,6 +23,10 @@ Global
 		{F5414AF3-B663-4E87-8FD1-E95DC418D250}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{F5414AF3-B663-4E87-8FD1-E95DC418D250}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{F5414AF3-B663-4E87-8FD1-E95DC418D250}.Release|Any CPU.Build.0 = Release|Any CPU
+		{6B3464F7-E403-4FE7-99DC-5EF0EC9CE8A7}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{6B3464F7-E403-4FE7-99DC-5EF0EC9CE8A7}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{6B3464F7-E403-4FE7-99DC-5EF0EC9CE8A7}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{6B3464F7-E403-4FE7-99DC-5EF0EC9CE8A7}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
