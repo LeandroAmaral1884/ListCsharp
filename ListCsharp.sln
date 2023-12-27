@@ -9,9 +9,9 @@ Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "ListRemoveIncluir", "List2\
 EndProject
 Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "ExpressaoLambda_Find", "ExpressaoLambda\ExpressaoLambda_Find.csproj", "{6B3464F7-E403-4FE7-99DC-5EF0EC9CE8A7}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "ToList_IEnumerable", "ToList_IEnumerable\ToList_IEnumerable.csproj", "{F9940488-3E9C-492A-B9E2-C251A3B5A92F}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "ToList_IEnumerable", "ToList_IEnumerable\ToList_IEnumerable.csproj", "{F9940488-3E9C-492A-B9E2-C251A3B5A92F}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "ExercicioTolistAlunos", "ExercicioTolistAlunos\ExercicioTolistAlunos.csproj", "{C9EAE59F-682B-457A-A058-A9A691805A5E}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "ExercicioTolistAlunos", "ExercicioTolistAlunos\ExercicioTolistAlunos.csproj", "{C9EAE59F-682B-457A-A058-A9A691805A5E}"
 EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution

@@ -4,13 +4,13 @@ using System.Linq;
 using System.Text;
 using System.Threading.Tasks;
 
-
-public class FonteDados
+// cria a classe de lista
+public class ListasDados
 {
-
-    public static List<Aluno> GetAlunos()
+    ///cria metodo do tipo List estânciando classe Aluno e nomeando  método ListaAlunos
+    public static List<Aluno> ListaAlunos()
     {
-
+        ///cria  List estânciando classe Aluno
         List<Aluno> alunos = new()
         {
             new Aluno { Nome ="Maria",Nota=8.75},
@@ -25,7 +25,7 @@ public class FonteDados
             new Aluno { Nome ="Sueli",Nota=9.15}
 
         };
-        return alunos;
+        return alunos; // retorna os valores da lista
     }
 
 }
